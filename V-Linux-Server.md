@@ -84,9 +84,27 @@
 **STEP 5:** *Web app test*
 * Check the Apache:
   * > **>systemctl status apache2**
+* Test The PHP:
+  * > **>echo `"<?php phpinfo(); ?>"` | sudo tee /var/www/html/info.php**
+* Open a browser and type:
+  * > **>http://<server-ip>/info.php**
+  * if the page shows the info, the server is up and running.
 
+---
 
+**References**
+* https://documentation.ubuntu.com/server/tutorial/basic-installation/index.html
+* https://documentation.ubuntu.com/server/explanation/networking/configuring-networks/index.html
+* https://documentation.ubuntu.com/server/how-to/software/package-management/index.html
+* https://www.freedesktop.org/software/systemd/man/latest/systemctl.html
+---
 
+**Revision Info**
+
+ | Version | Name | Date | 
+|:---|:---:|:---:|
+| 1.0 | Jaered Bacolod | 11/19/2025 |
+| 1.1 | Jane Doe | 11/19/2025 |
 
 
 
