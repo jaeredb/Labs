@@ -9,7 +9,7 @@
 
 ---
 
-**Approved Table:**
+# **Approved Table:**
 | Name | Title | Date |
 |:---|:---:|---:|
 | Jaered Bacolod | CEO | 11/19/2025 |
@@ -17,12 +17,12 @@
 
 ---
 
-**Purpose:**
+# **Purpose:**
 </p> I made this SOP to explain how to set up a virtual Linux server for testing web applications. This helps everyone follow the same steps and avoid mistakes.
 
 ---
 
-**SCOPE**
+# **SCOPE**
 </p> This document is for IT staff, students, devs who will need a test server.
 </p> This can help:
 
@@ -32,7 +32,7 @@
 
 ---
 
-**Accountability Matrix**
+# **Accountability Matrix**
 
 | Role | Tasks | Contact at | 
 |:---|:---:|:---:|
@@ -43,7 +43,7 @@
 
 ---
 
-**Definitions**
+# **Definitions**
 * LAMP
   * Linux, Apache, MariaDB, PHP.
 * VM
@@ -92,7 +92,7 @@
 
 ---
 
-**References**
+# **References**
 * https://documentation.ubuntu.com/server/tutorial/basic-installation/index.html
 * https://documentation.ubuntu.com/server/explanation/networking/configuring-networks/index.html
 * https://documentation.ubuntu.com/server/how-to/software/package-management/index.html
